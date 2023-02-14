@@ -1,3 +1,3 @@
--- purchasesテーブルから、nameカラムのデータを取得してください(2回目)
+-- purchasesテーブルから、nameカラムのデータを取得してください
 SELECT name
 FROM purchases;

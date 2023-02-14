@@ -1,3 +1,3 @@
--- purchasesテーブルから、priceカラムのデータを取得してください(2回目)
+-- purchasesテーブルから、priceカラムのデータを取得してください
 SELECT price
 FROM purchases;
